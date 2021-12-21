@@ -10,3 +10,5 @@
 // UI library
 
 // React basics -  14
+// Starting of the React - 20
+// npx create-react-app my-app
