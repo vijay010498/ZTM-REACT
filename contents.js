@@ -12,3 +12,9 @@
 // React basics -  14
 // Starting of the React - 20
 // npx create-react-app my-app
+
+// scripts
+// 1. Start - just bundle and start in local system
+// 2. Build - for distribution /  build folder -  using babel and webpack
+// 3. Test - format file_name.test.js
+// 4. Eject - Not used in local
