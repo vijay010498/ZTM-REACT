@@ -31,3 +31,7 @@
 
 //30. Single Page Application
 // Instead of requesting a page -> it will request for data
+
+// 31. Fetching contents
+// Life-cycle methods
+// componentDidMount -> when a component mount renders it on the DOM first time
