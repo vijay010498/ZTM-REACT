@@ -25,3 +25,6 @@
 
 // Class
 // Functions in react - returns Html
+
+//jsx
+// Whenever state changes -  React will call the render again and change the content
