@@ -18,3 +18,10 @@
 // 2. Build - for distribution /  build folder -  using babel and webpack
 // 3. Test - format file_name.test.js
 // 4. Eject - Not used in local
+
+// Hooks vs classes
+// Hooks are new
+// First start with classes then move to hooks
+
+// Class
+// Functions in react - returns Html
