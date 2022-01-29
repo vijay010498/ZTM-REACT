@@ -28,3 +28,6 @@
 
 //jsx
 // Whenever state changes -  React will call the render again and change the content
+
+//30. Single Page Application
+// Instead of requesting a page -> it will request for data
