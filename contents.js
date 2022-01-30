@@ -40,3 +40,9 @@
 // Our own component - starts with capital
 // even we can store file as .jsx / .js
 // doesn't matter since webpack / babel takes anc converts
+
+// 34. Component /  Card List Component
+// Break our code into small reusable pieces focus on only one responsibility
+// Ex - card component, search component
+// props
+// children - anything passed between the component tag
