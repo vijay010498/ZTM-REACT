@@ -46,3 +46,7 @@
 // Ex - card component, search component
 // props
 // children - anything passed between the component tag
+
+// 36. Card Component
+// Move the logic og displaying monsters to the card list component from app component
+// Display logic in card component
