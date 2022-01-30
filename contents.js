@@ -35,3 +35,8 @@
 // 31. Fetching contents
 // Life-cycle methods
 // componentDidMount -> when a component mount renders it on the DOM first time
+
+// 33. Architecting our APP
+// Our own component - starts with capital
+// even we can store file as .jsx / .js
+// doesn't matter since webpack / babel takes anc converts
