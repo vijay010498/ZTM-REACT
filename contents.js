@@ -78,3 +78,6 @@
 // Reusable components
 // Functional component - we can use when don't we need to use internal  state or life cycle methods\
 // passing handleChange Function to search component
+
+// 44. Where to put the state
+// We want to put the state as top as possible to be useful for all the components when state changes using the state
