@@ -69,3 +69,6 @@
 // 40. React Events
 // React intercepts the changes / events
 // we can't run setState directly inside render() // creates a loop
+
+// 41. Filtering State
+// React takes cares of what to show/ render and what not to
