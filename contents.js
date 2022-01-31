@@ -55,3 +55,8 @@
 // Why are we breaking into separate components
 // when do we break things down into components?
 //   To make things more flexible
+
+// 38. state vs props
+// One way data flow
+// App -> parent has state -> state changes -> passes as prop to wherever props is used from this state - monsters state is passed as a prop to child
+// props - state turned into props
