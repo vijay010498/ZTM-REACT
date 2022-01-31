@@ -72,3 +72,9 @@
 
 // 41. Filtering State
 // React takes cares of what to show/ render and what not to
+
+// 43. Search Box component
+// We might want to use it in multiple places
+// Reusable components
+// Functional component - we can use when don't we need to use internal  state or life cycle methods\
+// passing handleChange Function to search component
