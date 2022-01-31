@@ -50,3 +50,8 @@
 // 36. Card Component
 // Move the logic og displaying monsters to the card list component from app component
 // Display logic in card component
+
+// 37. Exercise -  Breaking into components
+// Why are we breaking into separate components
+// when do we break things down into components?
+//   To make things more flexible
