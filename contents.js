@@ -65,3 +65,7 @@
 // store the search input in state
 // setState =  async
 // setState has callback function
+
+// 40. React Events
+// React intercepts the changes / events
+// we can't run setState directly inside render() // creates a loop
