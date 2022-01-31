@@ -81,3 +81,9 @@
 
 // 44. Where to put the state
 // We want to put the state as top as possible to be useful for all the components when state changes using the state
+
+// 45. Class Methods and Arrow Functions
+// this KW is not by default for function keyword
+// use .bind
+// bind => returns a new function with binded this
+// instead of using bind  =>use arrow function
