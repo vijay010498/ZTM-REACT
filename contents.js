@@ -60,3 +60,8 @@
 // One way data flow
 // App -> parent has state -> state changes -> passes as prop to wherever props is used from this state - monsters state is passed as a prop to child
 // props - state turned into props
+
+// 39. Search Field state
+// store the search input in state
+// setState =  async
+// setState has callback function
