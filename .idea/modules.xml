@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ZTM - React.iml" filepath="$PROJECT_DIR$/.idea/ZTM - React.iml" />
-      <module fileurl="file://$PROJECT_DIR$/monsters-rolodex/.idea/monsters-rolodex.iml" filepath="$PROJECT_DIR$/monsters-rolodex/.idea/monsters-rolodex.iml" />
     </modules>
   </component>
 </project>
