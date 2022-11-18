@@ -87,3 +87,9 @@
 // use .bind
 // bind => returns a new function with binded this
 // instead of using bind  =>use arrow function
+
+// shallow merge
+// look for any key existing in the given object
+
+// lifeCycleMethods - Class Components
+//componentDidMount => execute after component is mounter
