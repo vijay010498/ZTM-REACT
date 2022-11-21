@@ -93,3 +93,28 @@
 
 // lifeCycleMethods - Class Components
 //componentDidMount => execute after component is mounter
+
+// Three phases in react
+// 1. Mounting
+// 2. Updating
+// 3. unmounting
+
+// Functional vs class components
+// lifecycle methods - class components
+// componentDidMount => execute after component is mounted
+// componentDidUpdate => execute after component updated/ rendering
+// componentWillUnmount => execute before component is unmounted
+
+
+// pure functions impure functions
+// pure functions = take arguments => returns a function that returns same value
+
+// side effects
+// pure functions => running a function, does not change any other value other than the arguments given
+
+// Hooks
+
+// useEffect() //
+// [] => dependencies
+// [] => whenever changes run the code inside
+// run => run first time when app mounts
