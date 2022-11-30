@@ -1,6 +1,7 @@
 import './search-box.styles.css';
 
 const SearchBox = ({className, placeholder, onChangeHandler}) => {
+    console.log('Render-search-box')
     return (
         <input className={`search-box ${className}`}
                type='search'
