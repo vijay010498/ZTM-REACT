@@ -118,3 +118,14 @@
 // [] => dependencies
 // [] => whenever changes run the code inside
 // run => run first time when app mounts
+
+
+// 105
+// need for context ?
+// user data is needed for many pages like orders, profile, returns
+// find out top level common component
+// basic -  app is the top level component
+// pass used data to the app component
+// pass through props
+// using props is useless
+// how about using a storage place which we can use anywhere - called react context
