@@ -129,3 +129,11 @@
 // pass through props
 // using props is useless
 // how about using a storage place which we can use anywhere - called react context
+
+// 106
+// user context
+// whenever data inside useContext changes re-render
+
+
+// 110
+// observer pattern
